@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I'm Esdras,
+I am a Full Stack Web Developer with experience building responsive websites and web applications. I specialize in JavaScript, React, Node/Express and SQL. 
+Feel free to contact me at Esdras.Brutus@gmail.com or checkout my linkedin: https://www.linkedin.com/in/esdras-brutus/
+- My favorite programming language is JavaScript
+- Besides building websites I love almost everything gaming and game development related 
 <!--
 **EsdrasBrutus/EsdrasBrutus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
